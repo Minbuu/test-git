@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello Git!</h1>
+    <p><a href="#" rel="">Click me</a></p>
 </body>
 </html>
